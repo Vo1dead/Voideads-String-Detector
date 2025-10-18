@@ -1,0 +1,2 @@
+Using file: C:\Program Files (x86)\Common Files\Oracle\Java\java8path\javaw.exe
+GitHub fetch failed: 404 Not Found
