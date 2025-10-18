@@ -127,3 +127,61 @@ dev.krypton
 doomsday
 mod_d
 1.png
+AimAssist
+AnchorMacro
+AutoCrystal
+placeDelay
+breakDelay
+stopOnKill
+clickSimulation
+damageTick
+particleChance
+antiWeakness
+fakePunch
+Switch Delay
+Switch Chance
+Sword Swap
+Work With Crystal
+Work With Totem
+Auto Hit Crystal
+Auto Inventory Totem
+autoOpen
+forceTotem
+totemSlot
+AutoJumpReset
+AutoPot
+throwDelay
+goToPrevSlot
+AutoWTap
+HoverTotem
+autoSwitch
+TriggerBot
+onlyCritSword
+AutoClicker
+AutoXP
+FakeLag
+Freecam
+PingSpoof
+anchorOnAnchor
+doubleGlowstone
+glowstoneMisplace
+DoubleAnchor
+NoBreakDelay
+NoJumpDelay
+PLACE_DELAY
+BREAK_DELAY
+PLACE_CHANCE
+BREAK_CHANCE
+STOP_ON_KILL
+DAMAGE_TICK
+switchToSword
+damageTickCheck
+isDeadBodyNearby
+SWITCH_CHANCE
+EXPLODE_DELAY_MS
+EXPLODE_SLOT
+isRightClickHeld
+PacketLag
+wasOnGround
+isAttackButtonPressed
+findKnockbackSword
